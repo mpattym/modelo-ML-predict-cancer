@@ -3,7 +3,9 @@
 
 
 Prueba Final (Opción A)
-modelos de machine learning que se pueden utilizar para predecir si un paciente tiene o no cáncer de mama
+
+**modelos de machine learning que se pueden utilizar para predecir si un paciente tiene o no cáncer de mama**
+
 Supongamos que usted trabaja en el servicio de salud y recibe muestras que provienen de mujeres con cáncer de mama. Los médicos han extraído características y las han anotado, su trabajo es crear un modelo que sea capaz de identificar si un paciente tiene o no cáncer. Recordemos que un falso positivo no es tan preocupante como un falso negativo, ya que en el futuro se le hacen más pruebas a las pacientes y hay oportunidades de descubrir que estábamos en un error. Sin embargo, un falso negativo puede llevar a que el cáncer se desarrolle sin supervisión durante más tiempo del necesario y podría llevar a daños más graves o incluso la muerte de la paciente.
 
 Teniendo esto en cuenta, desarrolla un modelo que funcione lo mejor posible y explica qué decisiones has tomado en su elaboración y por que. A entregar obligatoriamente:
