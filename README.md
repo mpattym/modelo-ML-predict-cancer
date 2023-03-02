@@ -16,7 +16,7 @@ Un archivo Readme en el que se explica el proyecto y el ejercicio. Tened en cuen
 Una carpeta data con el dataset. En el notebook debe aparecer el proceso de preprocesado de datos desde los archivos originales a ser posible. En el notebook debéis probar al menos con 3 modelos, evaluarlos y decidir cual es el mejor, justificando la respuesta en base a las matrices de confusión que aparecen al evaluar el error en training y en test. El dataset y su descripción aparecen aquí: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 
-Razonamientos:
+**Razonamientos:
 
 Existen varios modelos de machine learning que se pueden utilizar para predecir si un paciente tiene o no cáncer de mama a partir de un conjunto de datos de muestras. A continuación se mencionan algunos de ellos:
 
